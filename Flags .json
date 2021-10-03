@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"file": "https://raw.githubusercontent.com/Zongear/Flags-data/main/Flags%20data.csv",
 	"name": "Flags data",
 	"header": 0,
 	"separator": ";",
