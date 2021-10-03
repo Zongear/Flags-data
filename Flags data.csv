@@ -1,0 +1,197 @@
+Name;Red;Blue;White;Black;Yellow;Green
+Afghanistan;1;0;0;1;0;1
+Albania;1;0;0;1;0;0
+Algeria;1;0;1;0;0;1
+Andorra;1;1;0;0;1;0
+Angola;1;0;0;1;1;0
+Antigua & Deps;1;1;1;1;1;0
+Argentina;0;1;1;0;1;0
+Armenia;1;1;0;0;1;0
+Australia;1;1;1;0;0;0
+Austria;1;0;1;0;0;0
+Azerbaijan;1;1;1;0;0;1
+Bahamas;0;1;0;1;1;0
+Bahrain;1;0;1;0;0;0
+Bangladesh;1;0;0;0;0;1
+Barbados;0;1;0;1;1;0
+Belarus;1;0;1;0;0;1
+Belgium;1;0;0;1;1;0
+Belize;1;1;1;0;0;0
+Benin;1;0;0;0;1;1
+Bhutan;0;0;0;0;0;0
+Bolivia;1;0;0;0;1;1
+Bosnia Herzegovina;0;1;1;0;1;0
+Botswana;0;1;1;1;0;0
+Brazil;0;1;1;0;1;1
+Brunei;1;0;1;1;1;0
+Bulgaria;1;0;1;0;0;1
+Burkina;1;0;0;0;1;1
+Burundi;1;0;1;0;0;1
+Cambodia;1;1;1;0;0;0
+Cameroon;1;0;0;0;1;1
+Canada;1;0;1;0;0;0
+Cape Verde;1;1;1;0;1;0
+Central African Rep;1;1;1;0;1;1
+Chad;1;1;0;0;1;0
+Chile;1;1;1;0;0;0
+China;1;0;0;0;1;0
+Colombia;1;1;0;0;1;0
+Comoros;1;1;1;0;1;1
+Congo;1;0;0;0;1;1
+Congo {Democratic Rep};1;1;0;0;1;0
+Costa Rica;1;1;1;0;0;0
+Croatia;1;1;1;0;0;0
+Cuba;1;1;1;0;0;0
+Cyprus;0;0;1;0;1;1
+Czech Republic;1;1;1;0;0;0
+Denmark;1;0;1;0;0;0
+Djibouti;1;1;1;0;0;1
+Dominica;1;0;1;1;1;1
+Dominican Republic;1;1;1;0;0;0
+East Timor;1;0;1;1;1;0
+Ecuador;1;1;0;0;1;0
+Egypt;1;0;1;1;1;0
+El Salvador;0;1;1;0;0;0
+Equatorial Guinea;1;1;1;0;0;1
+Eritrea;1;1;0;0;1;1
+Estonia;0;1;1;1;0;0
+Ethiopia;1;1;0;0;1;1
+Fiji;1;1;1;0;0;0
+Finland;0;1;1;0;0;0
+France;1;1;1;0;0;0
+Gabon;0;1;0;0;1;1
+Gambia;1;1;1;0;0;1
+Georgia;1;0;1;0;0;0
+Germany;1;0;0;1;1;0
+Ghana;1;0;0;1;1;1
+Greece;0;1;1;0;0;0
+Grenada;1;0;0;0;1;1
+Guatemala;0;1;1;0;0;0
+Guinea;1;0;0;0;1;1
+Guinea-Bissau;1;0;0;1;1;1
+Guyana;1;0;1;1;1;1
+Haiti;1;1;0;0;0;0
+Honduras;0;1;1;0;0;0
+Hungary;1;0;1;0;0;1
+Iceland;1;1;1;0;0;0
+India;0;0;1;0;1;1
+Indonesia;1;0;1;0;0;0
+Iran;1;0;1;0;0;1
+Iraq;1;0;1;1;0;1
+Ireland {Republic};0;0;1;0;1;1
+Israel;0;1;1;0;0;0
+Italy;1;0;1;0;0;1
+Ivory Coast;0;0;1;0;1;1
+Jamaica;0;0;0;1;1;1
+Japan;1;0;1;0;0;0
+Jordan;1;0;1;1;0;1
+Kazakhstan;0;1;0;0;1;0
+Kenya;1;0;1;1;0;1
+Kiribati;1;1;1;0;1;0
+Korea North;1;1;1;0;0;0
+Korea South;1;1;1;1;0;0
+Kosovo;0;1;1;0;1;0
+Kuwait;1;0;1;1;0;1
+Kyrgyzstan;1;0;0;0;1;0
+Laos;1;1;1;0;0;0
+Latvia;1;0;1;0;0;0
+Lebanon;1;0;1;0;0;1
+Lesotho;0;1;1;1;0;1
+Liberia;1;1;1;0;0;0
+Libya;1;0;1;1;0;1
+Liechtenstein;1;1;0;1;1;0
+Lithuania;1;0;0;0;1;1
+Luxembourg;1;1;1;0;0;0
+Macedonia;1;0;0;0;1;0
+Madagascar;1;0;1;0;0;1
+Malawi;1;0;0;1;0;1
+Malaysia;1;1;1;0;1;0
+Maldives;1;0;1;0;0;1
+Mali;1;0;0;0;1;1
+Malta;1;0;1;0;0;0
+Marshall Islands;0;1;1;0;1;0
+Mauritania;1;0;0;0;1;1
+Mauritius;1;1;0;0;1;1
+Mexico;1;0;1;0;0;1
+Micronesia;0;1;1;0;0;0
+Moldova;1;1;0;0;1;0
+Monaco;1;0;1;0;0;0
+Mongolia;1;1;0;0;1;0
+Montenegro;1;0;0;0;1;0
+Morocco;1;0;0;0;0;1
+Mozambique;1;0;1;1;1;1
+"Myanmar, {Burma};1;0;1;0;1;1"
+Namibia;1;1;1;0;1;1
+Nauru;0;1;1;0;1;0
+Nepal;1;1;1;0;0;0
+Netherlands;1;1;1;0;0;0
+New Zealand;1;1;1;0;0;0
+Nicaragua;0;1;1;0;0;0
+Niger;0;0;1;0;1;1
+Nigeria;0;0;1;0;0;1
+Norway;1;1;1;0;0;0
+Oman;1;0;1;0;0;1
+Pakistan;0;0;1;0;0;1
+Palau;0;1;0;0;1;0
+Panama;1;1;1;0;0;0
+Papua New Guinea;1;0;1;1;1;0
+Paraguay;1;1;1;0;0;0
+Peru;1;0;1;0;0;0
+Philippines;1;1;1;0;1;0
+Poland;1;0;1;0;0;0
+Portugal;1;0;0;0;1;1
+Qatar;0;0;0;0;0;0
+Romania;1;1;0;0;1;0
+Russian Federation;1;1;1;0;0;0
+Rwanda;0;1;0;0;1;1
+St Kitts & Nevis;1;0;1;1;1;1
+St Lucia;0;1;1;1;1;0
+Saint Vincent & the Grenadines;0;1;0;0;1;1
+Samoa;1;1;1;0;0;0
+San Marino;0;1;1;0;0;0
+Sao Tome & Principe;1;0;0;1;1;1
+Saudi Arabia;0;0;1;0;0;1
+Senegal;1;0;0;0;1;1
+Serbia;1;1;1;0;0;0
+Seychelles;1;1;1;0;1;1
+Sierra Leone;0;1;1;0;0;1
+Singapore;1;0;1;0;0;0
+Slovakia;1;1;1;0;0;0
+Slovenia;1;1;1;0;0;0
+Solomon Islands;0;1;1;0;1;1
+Somalia;0;1;1;0;0;0
+South Africa;1;1;1;1;1;1
+South Sudan;1;1;1;1;1;1
+Spain;1;0;0;0;1;0
+Sri Lanka;1;0;0;0;1;1
+Sudan;1;0;1;1;0;1
+Suriname;1;0;1;0;1;1
+Swaziland;1;1;1;1;1;0
+Sweden;0;1;0;0;1;0
+Switzerland;1;0;1;0;0;0
+Syria;0;0;0;0;0;0
+Taiwan;1;1;1;0;0;0
+Tajikistan;1;0;1;0;1;1
+Tanzania;0;1;0;1;1;1
+Thailand;1;1;1;0;0;0
+Togo;1;0;1;0;1;1
+Tonga;1;0;1;0;0;0
+Trinidad & Tobago;1;0;1;1;0;0
+Tunisia;1;0;1;0;0;0
+Turkey;1;0;1;0;0;0
+Turkmenistan;1;0;1;0;1;1
+Tuvalu;1;1;1;0;1;0
+Uganda;1;0;1;1;1;0
+Ukraine;0;1;0;0;1;0
+United Arab Emirates;1;0;1;1;0;1
+United Kingdom;1;1;1;0;0;0
+United States;1;1;1;0;0;0
+Uruguay;0;1;1;0;1;0
+Uzbekistan;1;1;1;0;0;1
+Vanuatu;1;0;0;1;1;1
+Vatican City;0;0;1;0;1;0
+Venezuela;1;1;1;0;1;0
+Vietnam;1;0;0;0;1;0
+Yemen;1;0;1;1;0;0
+Zambia;1;0;0;1;1;1
+Zimbabwe;1;0;1;1;1;1
